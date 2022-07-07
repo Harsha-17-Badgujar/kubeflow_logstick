@@ -1,0 +1,10 @@
+pandas 
+numpy
+sklearn
+jinja2
+geopy
+jolib
+matplotlib
+seaborn
+flask
+openpyxl  
